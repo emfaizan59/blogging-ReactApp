@@ -63,7 +63,7 @@ weatherUpdate = () => {
        
       this.setState({lat : position.coords.latitude , long : position.coords.longitude})
       console.log(this.state.lat + " , "+this.state.long)
-      const apiUrl = `http://api.openweathermap.org/data/2.5/weather?lat=${this.state.lat}&lon=${this.state.long}&appid=0eaee39bf9949d4e8875106ff4efeb1f&units=metric`
+      const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${this.state.lat}&lon=${this.state.long}&appid=0eaee39bf9949d4e8875106ff4efeb1f&units=metric`
       this.fetchItem(apiUrl)
       
     }, (e) => {
