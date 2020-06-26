@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blogging-ReactApp/static/css/main.d77da3ca.chunk.css",
-    "main.js": "/blogging-ReactApp/static/js/main.b5bcd652.chunk.js",
-    "main.js.map": "/blogging-ReactApp/static/js/main.b5bcd652.chunk.js.map",
+    "main.js": "/blogging-ReactApp/static/js/main.e0ce328a.chunk.js",
+    "main.js.map": "/blogging-ReactApp/static/js/main.e0ce328a.chunk.js.map",
     "runtime-main.js": "/blogging-ReactApp/static/js/runtime-main.7cde0621.js",
     "runtime-main.js.map": "/blogging-ReactApp/static/js/runtime-main.7cde0621.js.map",
     "static/js/2.39bd6152.chunk.js": "/blogging-ReactApp/static/js/2.39bd6152.chunk.js",
     "static/js/2.39bd6152.chunk.js.map": "/blogging-ReactApp/static/js/2.39bd6152.chunk.js.map",
     "index.html": "/blogging-ReactApp/index.html",
-    "precache-manifest.7b62e3c42aae602d2eff713de741bb5e.js": "/blogging-ReactApp/precache-manifest.7b62e3c42aae602d2eff713de741bb5e.js",
+    "precache-manifest.a9b4497ccb0e0cdc4790a9c3def0fa2f.js": "/blogging-ReactApp/precache-manifest.a9b4497ccb0e0cdc4790a9c3def0fa2f.js",
     "service-worker.js": "/blogging-ReactApp/service-worker.js",
     "static/css/main.d77da3ca.chunk.css.map": "/blogging-ReactApp/static/css/main.d77da3ca.chunk.css.map",
     "static/js/2.39bd6152.chunk.js.LICENSE.txt": "/blogging-ReactApp/static/js/2.39bd6152.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7cde0621.js",
     "static/js/2.39bd6152.chunk.js",
     "static/css/main.d77da3ca.chunk.css",
-    "static/js/main.b5bcd652.chunk.js"
+    "static/js/main.e0ce328a.chunk.js"
   ]
 }
