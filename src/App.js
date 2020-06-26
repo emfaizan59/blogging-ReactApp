@@ -14,7 +14,7 @@ import NotFound from './Components/NotFound/NotFound'
 function App() {
   return (
    
-    <BrowserRouter>
+    <BrowserRouter basename="blogging-ReactApp">
       <Switch>
         <Route component={Home}  path="/" exact />
         <Route component={Register}  path="/register" exact strict />
