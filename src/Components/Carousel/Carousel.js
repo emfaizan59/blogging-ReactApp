@@ -242,7 +242,8 @@ return deg+" "+windDirectionMain
        60%, rgba(0,0,0,0.70)
        70%, rgba(0,0,0,0.80)
        80%, rgba(0,0,0,0.85)
-       100%),url('./images/b${ this.state.load ? 'black' : this.state.icon}.jpg')`,color : 'white',fontFamily: 'Fira Sans Extra Condensed' , marginTop : '-10px' , paddingTop : '60px' }}>
+       100%),url('./images/b${ this.state.load ? 'black' : this.state.icon}.jpg')`,color : 'white',fontFamily: 'Fira Sans Extra Condensed' , marginTop : '-10px' , paddingTop : '60px'
+        }}>
        
      
        <Header inverted as='h1' style={{padding:'30px', fontFamily: 'Viga',  fontSize: this.props.mobile ? '2em' : '3.5em'}}><Icon style={{marginBottom:'23px'}} icon name="marker map alternate" inverted  />{this.state.cityName}, {this.state.country}</Header>

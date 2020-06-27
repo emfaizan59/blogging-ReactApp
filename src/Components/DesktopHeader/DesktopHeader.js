@@ -58,8 +58,8 @@ class DesktopHeader extends Component {
       }
 componentDidMount = () => {
   check = localStorage.getItem("tokenLogin")
-  if(check !== null)
-  this.getUserData(check)
+  if(check !== null){
+  this.getUserData(check)}
 }
       getUserData = (uid) => {
       // console.log(  firebase.database().ref("user").child(check) )
